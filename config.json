@@ -1,4 +1,6 @@
-"api_site": {
+{
+  "cache_time": 9200,
+  "api_site": {
     "api_1": {
       "name": "TV-1080资源",
       "api": "https://api.1080zyku.com/inc/api_mac10.php",
@@ -443,7 +445,7 @@
       "api": "https://api.jmzy.com/api.php/provide/vod",
       "name": "金马资源网",
       "detail": "https://api.jmzy.com"
-    },
+    }，
     "dadiziy": {
       "api": "https://dadiapi.com/api.php/provide/vod",
       "name": "大地资源网络",
